@@ -12,15 +12,8 @@ While applying the function following pictures will be generated:
 	Shows the clusters of the VAE Latent space - mnist_vae_label_clusters.jpg
 	Visualise the grid of the latent space (MNIST) - mnist_vae_latent_space.jpg
 	
-VAE Model will be trained and the VAE model including the encoder and decoder with the weights will be saved the following files:
-	vae_encoder.json
-	vae_encoder_weights.h5
-	vae_decoder.json
-	vae_decoder_weights.h5
-	vae_model.json
-	vae_model_weights.h5
+VAE Model will be trained and the VAE model including the encoder and decoder with the weights will be saved.
 	
-
 	
 Task 2) 
 Start python program "mnist_ae_latent_space.py" 
